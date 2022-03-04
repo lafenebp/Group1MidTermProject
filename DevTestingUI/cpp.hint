@@ -1,0 +1,2 @@
+#define DEVTESTINGUI_API __declspec(dllexport)
+#define DEVTESTINGUI_API __declspec(dllimport)

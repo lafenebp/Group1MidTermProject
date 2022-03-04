@@ -1,0 +1,2 @@
+#define UNITTESTING_API __declspec(dllexport)
+#define UNITTESTING_API __declspec(dllimport)
